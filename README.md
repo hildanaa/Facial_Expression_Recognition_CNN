@@ -1,5 +1,7 @@
 # Facial Expression Recognition (FER)
 
+# Data Source link: https://www.kaggle.com/code/sharadhaviswanathan/imageclassification-facialexpression 
+
 A computer vision project that detects and classifies human facial expressions using machine learning techniques.
 
 ---
@@ -60,6 +62,7 @@ The goal is to build and evaluate a model capable of classifying facial expressi
 - The model demonstrates the ability to distinguish between multiple facial expressions
 - Performance varies across emotion classes, with stronger results for more distinct expressions
 - Visualizations and evaluation outputs are included in the notebook
+
 
 
 
